@@ -1,2 +1,3 @@
-# auto-e-learning-r0sm
-A online learning platform for modern development workflows
+# Auto E Learning R0Sm
+
+A online learning platform for modern development workflows.
